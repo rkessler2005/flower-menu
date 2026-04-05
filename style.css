@@ -100,14 +100,3 @@ h2 {
         opacity: 0;
         transform: scale(2);
     }
-}
-#bird-cursor {
-    position: absolute;
-    width: 120px; /* change size here */
-    pointer-events: none;
-    z-index: 9999;
-}
-
-body {
-    cursor: none; /* hides normal cursor */
-}

@@ -4,6 +4,7 @@ body {
     font-family: Georgia, serif;
     text-align: center;
     color: #5c4b43;
+    cursor: url("bird.png") 16 16, auto;
 }
 
 .home {
@@ -78,9 +79,7 @@ h2 {
     height: auto;
     border-radius: 10px;
 }
-body {
-    cursor: url("bird.png"), auto;
-}
+
 .sparkle {
     position: absolute;
     width: 6px;
